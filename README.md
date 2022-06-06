@@ -15,4 +15,8 @@
     - Inventory Tab Keybind: ]
 
  If you satisfy these requirements:
- 1. Go to tower, stand on Rahool
+ 1. Buy Glimmer at Rahool until you have a max stack (240K+) 
+ 2. Go to tower, stand near Rahool so that "E to Interact" is on your screen
+ 3. Press F7 to begin the script
+ 4. Other commands: F8 to reload, F9 to exit the script completely
+    - if you reload the script, press f7 to begin again
