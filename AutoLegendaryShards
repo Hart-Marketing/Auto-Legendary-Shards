@@ -1,0 +1,10 @@
+#SingleInstance Force
+#WinActivateForce
+#NoEnv
+DetectHiddenText, On
+DetectHiddenWindows, On
+SetTitleMatchMode, 2
+SetKeyDelay, 15
+SetMouseDelay, 75
+SetWinDelay, 100
+SetWorkingDir, %A_ScriptDir%
