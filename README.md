@@ -5,12 +5,14 @@
  
  In order to use this method:
  (I might add more items in the future - drop a request for any specifics)
- 1. You must play on Hunter
- 2. You must have unlocked Gumshoe Gumption Mask (s16 blue helmet)
- 3. Default M&K Keybinds that are used in script 
+1. You must play on Hunter
+2. You must have unlocked Gumshoe Gumption Mask (s16 blue helmet)
+3. Your display resolution must be 1920x1080
+4. Your default zoom for applications (windows) must be 100%
+5. Default M&K Keybinds that are used in script 
     - Esc to close windows
     - E to interact
-4. Custom Keybinds - YOU MUST SET THESE KEYBINDS IN YOUR SETTINGS
+6. Custom Keybinds - YOU MUST SET THESE KEYBINDS IN YOUR SETTINGS
     - Collections Tab Keybind: [
     - Inventory Tab Keybind: ]
 
