@@ -110,7 +110,7 @@ DismantleItem()
 		Random, sReclaim, 1400, 1425
 		if (A_Index=1)
 			Mousemove, x1, y1, 0
-		sleep 150
+		sleep 250
 		send {f down}
 		sleep sReclaim
 		send {f up}

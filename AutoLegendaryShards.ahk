@@ -105,7 +105,7 @@ DismantleItem()
 	Mousemove, xHelmet, yHelmet, 0
 	sleep 1000
 	Mousemove, x1, y1, 0
-	Loop, 10
+	Loop, 9
 	{
 		Random, sReclaim, 1400, 1425
 		if (A_Index=1)
